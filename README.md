@@ -1,6 +1,7 @@
+![Software Engineer](https://media.licdn.com/dms/image/C5603AQF0J98xZwbuWQ/profile-displayphoto-shrink_200_200/0/1612686543392?e=1694649600&v=beta&t=dIPgzyR4b2wOf394-KZCLUpAVmGFJeu74LMf2-g_6Ss)
+
 ### Hi there 👋, my name's Shohel Rana
 #### Software Engineer
-![Software Engineer](https://media.licdn.com/dms/image/C5603AQF0J98xZwbuWQ/profile-displayphoto-shrink_200_200/0/1612686543392?e=1694649600&v=beta&t=dIPgzyR4b2wOf394-KZCLUpAVmGFJeu74LMf2-g_6Ss)
 
 Creative software engineer with 2+ years of experience in web development, excelling in effective communication and teamwork. Seeking web development opportunities to drive company growth and assume greater responsibilities.
 
