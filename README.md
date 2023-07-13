@@ -12,5 +12,11 @@ Creative software engineer with 2+ years of experience in web development, excel
 
 ## 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=gsshohel1314&icon=0&color=0)](https://visitcount.itsvg.in)</br>
-![](https://github-readme-stats.vercel.app/api?username=gsshohel1314&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=gsshohel1314&theme=dark&hide_border=false)<br/>
+<table>
+  <thead>
+    <tr>
+      <th><img align="center" src="https://github-readme-stats.vercel.app/api?username=gsshohel1314&show_icons=true&locale=en" alt="gsshohel1314" /></th>
+      <th><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsshohel1314&" alt="gsshohel1314" /></th>
+    </tr>
+  </thead>
+</table>
