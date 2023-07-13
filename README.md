@@ -1,11 +1,30 @@
-![Software Engineer](https://media.licdn.com/dms/image/C5603AQF0J98xZwbuWQ/profile-displayphoto-shrink_200_200/0/1612686543392?e=1694649600&v=beta&t=dIPgzyR4b2wOf394-KZCLUpAVmGFJeu74LMf2-g_6Ss)
+<h3>MD: SHOHEL RANA</h3>
+<h3>Software Engineer</h3>
+✅01723559950 ✅gsshohel1314@gmail.com ✅<a href="https://www.linkedin.com/in/gs-shohel-397448126/">Linkedin</a> ✅<a href="https://www.facebook.com/gs.shohel.559950">Facebook</a> ✅Dhanmondi-32, Dhaka, Bangladesh
 
-### Shohel Rana
-#### Software Engineer
 
+<h2>Summary</h2>
 Creative software engineer with 2+ years of experience in web development, excelling in effective communication and teamwork. Seeking web development opportunities to drive company growth and assume greater responsibilities.
 
+<h2>Skills</h2>
+<ul>
+  <li><span>Circle symbol</span></li>
+  <li><span>Square symbol</span></li>
+  <li><span>Example text</span></li>
+  <li><span id="demo">Click on me!</span></li>
+</ul> 
+
+-I’m currently working on Perky Rabbit Corporation Ltd 
+- I’m currently learning JavaScript 
+- I’m looking to collaborate on GitHub 
+- Programming  Language: PHP, JavaScript <br>
+- Framework: Laravel, Vue.js, jQuery, Bootstrap
+- Tools: Git, Postman, VS Code
+- Database: MySQL, PostgreSQL, MS SQL
+- OS: Windows, Linux	•	Others: REST API
+
 Skills: PHP / Laravel / JavaScript / Vue.js / jQuery / Bootstrap / MySQL / Git / Postman / VS Code / Windows / Linux / REST API
+
 
 - 🔭 I’m currently working on Perky Rabbit Corporation Ltd 
 - 🌱 I’m currently learning JavaScript 
