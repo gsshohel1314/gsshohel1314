@@ -2,6 +2,7 @@
 <h3>Software Engineer</h3>
 ✅01723559950 ✅gsshohel1314@gmail.com ✅<a href="https://www.linkedin.com/in/gs-shohel-397448126/">Linkedin</a> ✅<a href="https://www.facebook.com/gs.shohel.559950">Facebook</a> ✅Dhanmondi-32, Dhaka, Bangladesh
 
+<br>
 
 <h2>Summary</h2>
 Creative software engineer with 2+ years of experience in web development, excelling in effective communication and teamwork. Seeking web development opportunities to drive company growth and assume greater responsibilities.
